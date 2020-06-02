@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -35,7 +35,7 @@ namespace Practical_9
         {
             if (labelText.Font.Size - 3 <= 0)
             {
-                MessageBox.Show("Anathi nanu nai thay", "Bas hve");
+                MessageBox.Show("It won't get smaller than this", "OK");
             }
             else
                 labelText.Font = new Font(labelText.Font.Name, labelText.Font.Size - 3);

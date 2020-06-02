@@ -1,4 +1,4 @@
-﻿namespace Practical_9
+namespace Practical_9
 {
     partial class Form1
     {

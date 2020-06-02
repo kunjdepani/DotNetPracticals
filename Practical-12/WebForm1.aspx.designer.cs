@@ -1,4 +1,4 @@
-﻿namespace TextBoxConfig
+namespace TextBoxConfig
 {
     public partial class WebForm1
     {
